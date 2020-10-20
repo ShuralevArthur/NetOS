@@ -1,0 +1,9 @@
+C:\Users\Администратор\source\repos\NetOS\NetOS\bin\Debug\netcoreapp2.0\cosmos\NetOS.deps.json
+C:\Users\Администратор\source\repos\NetOS\NetOS\bin\Debug\netcoreapp2.0\cosmos\NetOS.dll
+C:\Users\Администратор\source\repos\NetOS\NetOS\bin\Debug\netcoreapp2.0\cosmos\NetOS.pdb
+C:\Users\Администратор\source\repos\NetOS\NetOS\obj\Debug\netcoreapp2.0\cosmos\NetOS.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\NetOS\NetOS\obj\Debug\netcoreapp2.0\cosmos\NetOS.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\NetOS\NetOS\obj\Debug\netcoreapp2.0\cosmos\NetOS.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\NetOS\NetOS\obj\Debug\netcoreapp2.0\cosmos\NetOS.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\NetOS\NetOS\obj\Debug\netcoreapp2.0\cosmos\NetOS.dll
+C:\Users\Администратор\source\repos\NetOS\NetOS\obj\Debug\netcoreapp2.0\cosmos\NetOS.pdb
